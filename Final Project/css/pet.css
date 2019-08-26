@@ -1,0 +1,73 @@
+/* This is where we will be writing all of your styles */
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+
+body{
+  font-family: "Roboto", sans-serif;
+}
+
+
+ul{
+  text-align: left;
+  padding-left: 100px;
+}
+
+
+.banner {
+  color: #5e412c;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+#first-list {
+  background-color: #D3D3D3;
+  text-align: center;
+  padding: 10px;
+  margin: -10px;
+}
+
+li {
+  display: inline-block;
+}
+
+header {
+width: auto;
+background-color: #5e412c;
+font-family: serif;
+color: white;
+padding: 10px;
+margin: -30px;
+font-size: 100px;
+text-align: center;
+}
+
+h1{
+  font-family: serif;
+  color: #5e412c;
+  margin-top: 100px;
+text-align: center;
+  font-size: 50px;
+}
+
+p {
+  font-family: sans-serif;
+  width: 300px;
+  text-align: left;
+  font-size: 15px;
+  line-height: 20px;
+  padding-left: 580px;
+  margin-bottom: -275px;
+}
+
+img {
+  width: 400px;
+  height:370px;
+  margin-left: 150px;
+  margin-top: -100px;
+  margin-bottom: 200px;
+}
+
+
+#body {
+  align: center;
+}
